@@ -1,4 +1,11 @@
-module org.snmp4j {
+/**
+ * 
+ */
+/**
+ * @author xgaillard
+ *
+ */
+module snmp4j {
 	exports org.snmp4j.uri;
 	exports org.snmp4j.smi;
 	exports org.snmp4j.security.nonstandard;
